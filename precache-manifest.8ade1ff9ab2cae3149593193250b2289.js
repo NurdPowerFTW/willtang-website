@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0438d7e8dd89dd2d47d6",
+    "revision": "19e176aadcf4f1711726",
     "url": "/willtang-website/static/css/main.2d4dfd2c.chunk.css"
   },
   {
-    "revision": "0438d7e8dd89dd2d47d6",
-    "url": "/willtang-website/static/js/main.0438d7e8.chunk.js"
+    "revision": "19e176aadcf4f1711726",
+    "url": "/willtang-website/static/js/main.19e176aa.chunk.js"
   },
   {
     "revision": "7c18a8a23e4d84adb5c1",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/willtang-website/static/js/runtime~main.f1a9c7bd.js"
   },
   {
-    "revision": "77fbf49542562bd8ed739ee274082ec2",
+    "revision": "e9493059e6bb0ef30026584ac1c2f1fe",
     "url": "/willtang-website/index.html"
   }
 ];
