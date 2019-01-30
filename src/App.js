@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'https://raw.githubusercontent.com/NurdPowerFTW/willtang-website/gh-pages/resumeData.jso',
+      url:'https://raw.githubusercontent.com/NurdPowerFTW/willtang-website/gh-pages/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
