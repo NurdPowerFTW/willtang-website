@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"William Tang",
-    "occupation":"(Senior Student in Computer Science)",
+    "occupation":"Senior Student in Computer Science",
     "description":"Hi, I'm an undergraduate student pursing BS in Computer Science, expected to finish in May 2020",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
@@ -9,10 +9,10 @@
     "email": "Weitung.Tang@utah.edu",
     "phone": "(650)495-4575",
     "address":{
-      "street":"(2296 Foothill Dr.)",
-      "city":"(Salt Lake City)",
-      "state":"(Utah)",
-      "zip": "(84109)"
+      "street":"2296 Foothill Dr.",
+      "city":"Salt Lake City",
+      "state":"Utah",
+      "zip": "84109"
     },
     "website": "https://nurdpowerftw.github.io/willtang-website",
     "resumedownload":"http://timbakerdev.com",
