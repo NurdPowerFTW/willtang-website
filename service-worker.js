@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/willtang-website/precache-manifest.f5bdcb937417f3ab2f422e662691b6d6.js"
+  "/willtang-website/precache-manifest.54d30839638ca14349dbb0b9b4847503.js"
 );
 
 workbox.clientsClaim();
